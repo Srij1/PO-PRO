@@ -1,5 +1,5 @@
 ## PO Pro 
-PO PRO is an app dedicated to making running congressional debate rounds simple and easy. It tracks speaker order, aff and neg speeches, questioning periods, legislation progress, and voting results. It was created to make the work of the PO simple and streamlined so even novices can fill the role.
+PO PRO is an app dedicated to making running congressional debate rounds simple and easy. It tracks speaker order, aff and neg speeches, questioning periods, legislation progress, and voting results. It was created to make the work of the PO simple and streamlined so even novices can fill the role. It was created by Srijan Tripathi, an 11th grader at Elkhorn South High School.
 
 ## Features
 
