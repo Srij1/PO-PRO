@@ -73,7 +73,7 @@ PO Pro is designed for student use, including middle school and high school spee
 
 ## Data Security
 
-Because PO Pro does not collect or transmit user data, there is no external database containing user information. \
+Because PO Pro does not collect or transmit user data, there is no external database containing user information. 
 ## Contact
 
 If you have questions about this Privacy Policy or PO Pro, please contact me at srij1tripathi@gmail.com.
